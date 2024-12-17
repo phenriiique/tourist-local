@@ -1,3 +1,5 @@
 header {
-  
+  span {
+    color: var(--text-headline);
+  }
 }
